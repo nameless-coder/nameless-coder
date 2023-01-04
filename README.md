@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Nameless Coder.
+
+- 🔭 I’m currently working on FastAPI + MongoDB example apps.
+- 📫 How to reach me via e-mail `github` AT `advensis.co`
+
 <!--
 **nameless-coder/nameless-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
